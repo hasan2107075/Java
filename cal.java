@@ -1,5 +1,5 @@
 public class Calculator {
-  private String NAME; // private = restricted access
+  private String name; // private = restricted access
 
   // Getter
   public String getName() {
