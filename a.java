@@ -2,7 +2,7 @@ public class Person {
   private String namE; // private = restricted access
 
   // Getter
-  public String getName() {
+  public String getNamE() {
     return name;
   }
 
