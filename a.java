@@ -1,5 +1,5 @@
 public class Person {
-  private String name; // private = restricted access
+  private String namE; // private = restricted access
 
   // Getter
   public String getName() {
